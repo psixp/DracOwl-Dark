@@ -10,11 +10,10 @@
   "categories": [
     "Themes"
   ],
-  "icon": "https://github.com/psixp/DracOwl-Dark/blob/main/images/6-square-fill.png",
   "galleryBanner": {
     "color": "#80808059",
-    "theme": "dark"},
-  
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
@@ -23,5 +22,15 @@
         "path": "./themes/DracOwl Dark-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/microsoft/vscode-wordcount/issues",
+    "email": "sean@contoso.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psixp/DracOwl-Dark"
+  },
+    "homepage": "https://github.com/psixp/DracOwl-Dark/blob/main/README.md"
 }
