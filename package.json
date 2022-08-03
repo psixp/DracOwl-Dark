@@ -10,10 +10,10 @@
   "categories": [
     "Themes"
   ],
-  "icon": "images/6-square-fill.png",
+  "icon": "https://github.com/psixp/DracOwl-Dark/blob/main/images/6-square-fill.png",
   "galleryBanner": {
-    "color": "#C80000",
-    "theme": "dark",
+    "color": "#80808059",
+    "theme": "dark"},
   
   "contributes": {
     "themes": [
