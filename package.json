@@ -1,0 +1,27 @@
+{
+  "name": "dracowl-dark",
+  "displayName": "DracOwl Dark",
+  "description": "when you join dracula with owl theme",
+  "version": "0.0.1",
+  "publisher": "psixp",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/6-square-fill.png",
+  "galleryBanner": {
+    "color": "#C80000",
+    "theme": "dark",
+  
+  "contributes": {
+    "themes": [
+      {
+        "label": "DracOwl Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DracOwl Dark-color-theme.json"
+      }
+    ]
+  }
+}
